@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b661f945-c916-4a76-9ec4-3fcb8be627a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VvdlVDDJfiGM2oJZoj8QRVDXiW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577722387368" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="bgu.spl.net.BookClubService.Messages" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="StompServer" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="bgu.spl.net.impl.stomp.StompServer" />
+      <module name="spl-net" />
+      <option name="PROGRAM_PARAMETERS" value="7878 tpc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b661f945-c916-4a76-9ec4-3fcb8be627a4" name="Default Changelist" comment="" />
+      <created>1576080803763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576080803763</updated>
+      <workItem from="1576080809460" duration="4560000" />
+      <workItem from="1576425958628" duration="620000" />
+      <workItem from="1577718845591" duration="2901000" />
+      <workItem from="1578137656041" duration="51000" />
+      <workItem from="1578137771194" duration="16400000" />
+      <workItem from="1578320587571" duration="12278000" />
+      <workItem from="1578400943983" duration="22149000" />
+      <workItem from="1578507712484" duration="12341000" />
+      <workItem from="1578579622124" duration="2384000" />
+      <workItem from="1579091390420" duration="120000" />
+      <workItem from="1579091552110" duration="16726000" />
+      <workItem from="1579430325592" duration="658000" />
+      <workItem from="1579441928400" duration="7459000" />
+      <workItem from="1579455338674" duration="529000" />
+      <workItem from="1579456095448" duration="632000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="626" y="174" width="800" height="677" key="#Project_Structure" timestamp="1579091415781">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state x="626" y="174" key="#Project_Structure/0.28.1920.1024@0.28.1920.1024" timestamp="1579091415781" />
+    <state x="671" y="177" width="800" height="677" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1578404094126" />
+    <state x="653" y="208" width="671" height="688" key="#Unnamed" timestamp="1579371072381">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="653" y="208" width="671" height="688" key="#Unnamed/67.27.1853.1053@67.27.1853.1053" timestamp="1579371072381" />
+    <state x="413" y="310" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579456137514">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="440" y="357" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1579018398469" />
+    <state x="440" y="368" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1024@0.28.1920.1024" timestamp="1579091507727" />
+    <state x="413" y="310" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579456137514" />
+    <state x="801" y="265" width="544" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1579359290891">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="801" y="265" width="544" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1579359290891" />
+    <state x="725" y="338" width="1272" height="692" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579371023668">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="328" y="267" width="1272" height="692" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1579018243517" />
+    <state x="725" y="338" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579371023668" />
+    <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579455817026">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="834" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579455817026" />
+    <state x="489" y="480" width="1087" height="145" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578320614286">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="489" y="480" width="1087" height="145" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1578320614286" />
+    <state x="746" y="413" width="484" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578427414436">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="746" y="413" width="484" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.1853.1053@67.27.1853.1053" timestamp="1578427414436" />
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578429874765">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1578429874765" />
+    <state x="776" y="251" width="424" height="603" key="FileChooserDialogImpl" timestamp="1579430373730">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="735" y="222" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1579018254512" />
+    <state x="776" y="251" width="424" height="603" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579430373730" />
+    <state width="1234" height="264" key="GridCell.Tab.0.bottom" timestamp="1579457101348">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1874" height="385" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1579090972055" />
+    <state width="1874" height="268" key="GridCell.Tab.0.bottom/0.28.1920.1024@0.28.1920.1024" timestamp="1579112110637" />
+    <state width="1234" height="264" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579457101348" />
+    <state width="1234" height="264" key="GridCell.Tab.0.center" timestamp="1579457101348">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1874" height="385" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1579090972054" />
+    <state width="1874" height="268" key="GridCell.Tab.0.center/0.28.1920.1024@0.28.1920.1024" timestamp="1579112110637" />
+    <state width="1234" height="264" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579457101348" />
+    <state width="1234" height="264" key="GridCell.Tab.0.left" timestamp="1579457101348">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1874" height="385" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1579090972053" />
+    <state width="1874" height="268" key="GridCell.Tab.0.left/0.28.1920.1024@0.28.1920.1024" timestamp="1579112110636" />
+    <state width="1234" height="264" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579457101348" />
+    <state width="1234" height="264" key="GridCell.Tab.0.right" timestamp="1579457101348">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1874" height="385" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1579090972054" />
+    <state width="1874" height="268" key="GridCell.Tab.0.right/0.28.1920.1024@0.28.1920.1024" timestamp="1579112110637" />
+    <state width="1234" height="264" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579457101348" />
+    <state width="1807" height="241" key="GridCell.Tab.1.bottom" timestamp="1579371458339">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1874" height="239" key="GridCell.Tab.1.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1579087525613" />
+    <state width="1874" height="332" key="GridCell.Tab.1.bottom/0.28.1920.1024@0.28.1920.1024" timestamp="1579111761460" />
+    <state width="1807" height="241" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579371458339" />
+    <state width="1807" height="241" key="GridCell.Tab.1.center" timestamp="1579371458338">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1874" height="239" key="GridCell.Tab.1.center/0.0.1920.1044@0.0.1920.1044" timestamp="1579087525613" />
+    <state width="1874" height="332" key="GridCell.Tab.1.center/0.28.1920.1024@0.28.1920.1024" timestamp="1579111761460" />
+    <state width="1807" height="241" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579371458338" />
+    <state width="1807" height="241" key="GridCell.Tab.1.left" timestamp="1579371458333">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1874" height="239" key="GridCell.Tab.1.left/0.0.1920.1044@0.0.1920.1044" timestamp="1579087525613" />
+    <state width="1874" height="332" key="GridCell.Tab.1.left/0.28.1920.1024@0.28.1920.1024" timestamp="1579111761459" />
+    <state width="1807" height="241" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579371458333" />
+    <state width="1807" height="241" key="GridCell.Tab.1.right" timestamp="1579371458339">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1874" height="239" key="GridCell.Tab.1.right/0.0.1920.1044@0.0.1920.1044" timestamp="1579087525613" />
+    <state width="1874" height="332" key="GridCell.Tab.1.right/0.28.1920.1024@0.28.1920.1024" timestamp="1579111761460" />
+    <state width="1807" height="241" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579371458339" />
+    <state x="526" y="210" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1578581131270">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="526" y="210" width="924" height="684" key="Maven.ArtifactSearchDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1578581131270" />
+    <state x="579" y="251" width="819" height="602" key="NewModule_or_Project.wizard" timestamp="1578143537242">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="579" y="251" width="819" height="602" key="NewModule_or_Project.wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1578143537242" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1578768251728">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1578768251728" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1579456097523">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="603" y="350" key="com.intellij.ide.util.TipDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1579083345703" />
+    <state x="603" y="371" key="com.intellij.ide.util.TipDialog/0.28.1920.1024@0.28.1920.1024" timestamp="1579091552387" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579456097523" />
+    <state x="694" y="257" width="589" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1578153107896">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="694" y="257" width="589" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1578153107896" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/impl/echo/EchoClient.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/impl/BookClubService/StompFrame.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/Server.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/impl/BookClubService/BCStompProtocol.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/impl/BookClubService/BCStompProtocol.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/impl/BookClubService/BCStompProtocol.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/impl/BookClubService/BCStompProtocol.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/BlockingConnectionHandler.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/BlockingConnectionHandler.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/BlockingConnectionHandler.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/BlockingConnectionHandler.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/BlockingConnectionHandler.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/BaseServer.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/BaseServer.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/BaseServer.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/BaseServer.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/BaseServer.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/BaseServer.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/BaseServer.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spl_net$.ic" NAME=" Coverage Results" MODIFIED="1579371258718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
